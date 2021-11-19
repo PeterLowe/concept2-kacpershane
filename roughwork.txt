@@ -5,9 +5,11 @@ Title
 
 Kacper Shane
 
-Elevator pitch 
-Describe your game in 30 seconds or less
-...
+Elevator pitch
+[sc] Shane 
+Assassins but in space, it's an extremely simple concept, if you can't wrap your
+head around it you're probably too stupid to pick up a controller, this isn't for you...
+
 World Background
 main differences in your game world
 ...
