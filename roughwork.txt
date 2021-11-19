@@ -2,6 +2,10 @@
 
 Title
 Kacper, Shane
+=======
+[sc] Shane
+
+Kacper Shane
 
 Elevator pitch 
 Describe your game in 30 seconds or less
