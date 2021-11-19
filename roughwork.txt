@@ -4,6 +4,8 @@ Title
 [sc] Shane
 
 insert team member names here
+=======
+Kacper Shane
 
 Elevator pitch 
 Describe your game in 30 seconds or less
