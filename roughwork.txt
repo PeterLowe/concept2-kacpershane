@@ -1,6 +1,8 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
+[sc] Shane
+
 insert team member names here
 
 Elevator pitch 
